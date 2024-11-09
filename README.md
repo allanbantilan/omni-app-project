@@ -1,4 +1,4 @@
-# Multi-Channel Communication Platform
+# Omni App
 
 A Laravel-based communication platform that integrates real-time chat, SMS, voice calls, and email functionality using Laravel Reverb, Twilio, and Gmail API.
 
